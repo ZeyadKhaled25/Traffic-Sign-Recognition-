@@ -82,7 +82,3 @@ This project was developed by:
 * **Zeyad Khaled Ehab** \- [GitHub Profile](https://www.google.com/search?q=https://github.com/ZeyadKhaled25)  
 * **Omar Abdeltawab**
 
-## **📜 License**
-
-This project is licensed under the MIT License \- see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.  
-*This project is a prototype for Autonomous Vehicle Perception Systems.*
